@@ -1,11 +1,15 @@
 package basics.chapter003;
 
+// Demonstrates a basic JavaFX application
+
 import javafx.application.Application;
 import javafx.scene.Group;
 import javafx.scene.Scene;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
+
+// Creates and displays two Text objects in a JavaFX window.
 
 public class HelloJavaFX extends Application {
 
