@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="865d1a84-9e1a-4be3-a1c7-cb1dbff71bd2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/basics/chapter003/Pp31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basics/chapter003/pp32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +34,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2f9bd9P0bjPRjQr2SPHWm7qMbWp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,8 +49,10 @@
     "Application.Einstein.executor": "Run",
     "Application.HelloApplication.executor": "Run",
     "Application.HelloJavaFX.executor": "Run",
+    "Application.Java.executor": "Run",
     "Application.Pp31.executor": "Run",
     "Application.Snowman.executor": "Run",
+    "Application.pp32.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -86,7 +89,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713216325860</updated>
-      <workItem from="1713216326861" duration="6986000" />
+      <workItem from="1713216326861" duration="7411000" />
+      <workItem from="1714152488511" duration="9000" />
+      <workItem from="1715108638468" duration="1495000" />
+      <workItem from="1715123061115" duration="2301000" />
     </task>
     <servers />
   </component>
