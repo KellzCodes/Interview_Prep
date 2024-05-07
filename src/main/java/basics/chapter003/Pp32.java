@@ -7,7 +7,7 @@ import java.util.Scanner;
  * and print the sum of each value raised to the third power.
  */
 
-public class pp32 {
+public class Pp32 {
     public static void main(String[] args){
         int first, second;
 
