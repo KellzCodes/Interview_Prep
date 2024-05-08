@@ -1,2 +1,4 @@
 - [Die.java](https://github.com/KellzCodes/Interview_Prep/blob/main/src/main/java/basics/chapter004/Die.java): Represents one die (singular of dice) with faces showing values between 1 and 6.
 - [RollingDice.java](https://github.com/KellzCodes/Interview_Prep/blob/main/src/main/java/basics/chapter004/RollingDice.java): Demonstrates the creation and use of a user-defined class.
+- [Account.java](https://github.com/KellzCodes/Interview_Prep/blob/main/src/main/java/basics/chapter004/Account.java): Represents a bank account with basic services such as deposit and withdraw.
+- [Transactions.java](https://github.com/KellzCodes/Interview_Prep/blob/main/src/main/java/basics/chapter004/Transactions.java): Demonstrates the creation and use of multiple Account objects.

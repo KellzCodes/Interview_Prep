@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="865d1a84-9e1a-4be3-a1c7-cb1dbff71bd2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/basics/chapter004/Transactions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basics/chapter004/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/chapter004/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +61,7 @@
     "Application.Pp39.executor": "Run",
     "Application.RollingDice.executor": "Run",
     "Application.Snowman.executor": "Run",
+    "Application.Transactions.executor": "Run",
     "Application.pp32.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -100,7 +103,7 @@
       <workItem from="1714152488511" duration="9000" />
       <workItem from="1715108638468" duration="1495000" />
       <workItem from="1715123061115" duration="7388000" />
-      <workItem from="1715183554260" duration="6682000" />
+      <workItem from="1715183554260" duration="8162000" />
     </task>
     <servers />
   </component>
