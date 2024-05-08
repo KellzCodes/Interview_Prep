@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="865d1a84-9e1a-4be3-a1c7-cb1dbff71bd2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/basics/chapter003/Pp36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basics/chapter003/Pp39.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/basics/chapter003/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basics/chapter003/README.md" afterDir="false" />
     </list>
@@ -56,6 +56,9 @@
     "Application.Pp34.executor": "Run",
     "Application.Pp35.executor": "Run",
     "Application.Pp36.executor": "Run",
+    "Application.Pp37.executor": "Run",
+    "Application.Pp38.executor": "Run",
+    "Application.Pp39.executor": "Run",
     "Application.Snowman.executor": "Run",
     "Application.pp32.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -98,7 +101,7 @@
       <workItem from="1714152488511" duration="9000" />
       <workItem from="1715108638468" duration="1495000" />
       <workItem from="1715123061115" duration="7388000" />
-      <workItem from="1715183554260" duration="1277000" />
+      <workItem from="1715183554260" duration="4298000" />
     </task>
     <servers />
   </component>
