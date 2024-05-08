@@ -14,4 +14,5 @@
 - [PP 3.3](https://github.com/KellzCodes/Interview_Prep/blob/main/src/main/java/basics/chapter003/Pp33.java) Write a program that creates and prints a random phone number of the form XXX–XXX–XXXX. Include the dashes in the output. Do not let the first three digits contain an 8 or 9 (but don’t be more restrictive than that), and make sure that the second set of three digits is not greater than 655. Hint: Think through the easiest way to construct the phone number. Each digit does not have to be determined separately.
 - [PP 3.4](https://github.com/KellzCodes/Interview_Prep/blob/main/src/main/java/basics/chapter003/Pp34.java) Write a program that reads a floating point value (**double**) and prints the closest whole numbers less than and greater than that value. For example, if the number is 28.466, the program would print 28 and 29.
 - [PP 3.5](https://github.com/KellzCodes/Interview_Prep/blob/main/src/main/java/basics/chapter003/Pp35.java) Write a program that reads the  coordinates for two points. Compute the distance between the two points using the following formula: $`\sqrt{(x_1-x_2)^2 - (y_2-y_1)^2}`$
+- [PP 3.6]() $`\frac{\frac{1}{x}+\frac{1}{y}}{y-z}`$
 
